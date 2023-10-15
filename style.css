@@ -4,7 +4,9 @@ body {
 }
 
 h1 {
-    font-size: 35px;
+    font-size: 40px;
+    font position: margin-left: 5%;
+    ;
 }
 
 .color-cornflowerblue {
@@ -16,12 +18,12 @@ section {
 }
 
 .half-width {
-    width: 50%;
-    padding: 1%;
+    width: 60%;
+    padding: 8%;
 }
 
 .half-width img {
-    width: 100%;
+    width: 120%;
 }
 
 .link-button {
