@@ -64,9 +64,16 @@ h2 {
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px skyblue;
-    border-left: 7px solid khaki;
 }
 
 #full-stack-developer {
-    border-left: 7px solid gray;
+    border-left: 7px solid red;
+}
+
+#baby-web-developer {
+    border-left: 7px solid royalblue;
+}
+
+footer p {
+    text-align: center;
 }
